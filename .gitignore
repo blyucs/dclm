@@ -217,3 +217,4 @@ eval/*.jsonl*
 secrets.env
 eval/sagemaker_scripts/configs/
 plotting/paper/experiments.csv
+exp_data
